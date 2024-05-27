@@ -1,0 +1,18 @@
+.para
+{
+    border: 1px solid gray;
+    padding: 10px;
+}
+.heading
+{
+    text-align: center;
+    text-transform: uppercase;
+    color: #963376;
+}
+p{
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
